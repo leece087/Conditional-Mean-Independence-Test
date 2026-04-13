@@ -25,8 +25,7 @@ The examples share a common workflow:
 
 - `CMI_Example 5.3.R`
   An example adopted from Park et al (2015) where `Y` and `X` are dependent with
-  `X = Z + U2` and
-  `Y = Z + U1 + r * X`.
+  `Y = Z + U1 + r * X` and `X = Z + U2`.
 
 ## Main Components
 
